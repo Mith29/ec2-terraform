@@ -1,5 +1,5 @@
 provider "aws" {
-  region     = "us-east-02"
+  region     = "us-east-2"
 }
 
 module "ec2_instance" {
